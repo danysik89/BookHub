@@ -5,10 +5,9 @@ const Banner = (props) => (
                 <h1>Book club</h1>
             </header>
             <div className="content">
-                <p>A responsive site template designed by HTML5 UP<br />
-                and released under the Creative Commons.</p>
+                <p>A landing page for N-iX react mentorship</p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" className="button next scrolly">Join club</a></li>
                 </ul>
             </div>
         </div>
